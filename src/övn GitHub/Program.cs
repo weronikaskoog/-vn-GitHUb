@@ -25,7 +25,7 @@ namespace övn_GitHub
 
 
 
-            //nu skall vi jämföra
+            //nu skriver jag på samma rad. Ny ändring
         }
     }
 }
