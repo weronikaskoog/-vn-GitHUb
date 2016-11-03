@@ -21,6 +21,11 @@ namespace övn_GitHub
             host.Run();
 
             //git 
+            //git2
+
+
+
+            //nu skall vi jämföra
         }
     }
 }
