@@ -22,6 +22,10 @@ namespace övn_GitHub
 
             //git 
             //git2
+
+
+
+            //nu skall vi jämföra
         }
     }
 }
